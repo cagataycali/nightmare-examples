@@ -1,4 +1,4 @@
-Cooler (nightmarejs)[https://github.com/segmentio/nightmare] examples :+1:
+Cooler [nightmarejs](https://github.com/segmentio/nightmare) examples :+1:
 ----
 
 
