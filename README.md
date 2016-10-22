@@ -20,3 +20,4 @@ node examples/yahoo.js
 - examples
   - yahoo search click and extract
   - insert external js in page
+  - Upload any file
