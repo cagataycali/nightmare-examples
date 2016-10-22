@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cagataycali/nightmare-examples/issues"
   },
-  "homepage": "https://github.com/cagataycali/nightmare-examples#readme"
+  "homepage": "https://github.com/cagataycali/nightmare-examples#readme",
+  "dependencies": {
+    "nightmare": "^2.8.1"
+  }
 }
