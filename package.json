@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/cagataycali/nightmare-examples#readme",
   "dependencies": {
+    "3x3c": "^1.0.2",
+    "async": "^2.1.2",
+    "express": "^4.14.0",
     "nightmare": "^2.8.1",
     "nightmare-upload": "^0.1.1"
   }
