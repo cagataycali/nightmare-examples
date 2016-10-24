@@ -3,15 +3,9 @@
 */
 const express = require('express');
 const app = express();
-const E = require('3x3c');
 
 app.get('/hi', (req, res) => {
-  console.log(req.query.name, req.query.surname);
-  const data = {
-    name,
-    surname
-  } = req.query;
-  res.json(data)
+  res.json(req.query)
 });
 
 app.get('/', (req, res) => {
