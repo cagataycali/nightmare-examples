@@ -22,3 +22,4 @@ node examples/yahoo.js
   - insert external js in page
   - Upload any file
   - Do request
+  - Download file
