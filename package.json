@@ -30,7 +30,7 @@
     "nightmare-download-manager": "^0.2.2",
     "nightmare-inline-download": "^0.2.2",
     "nightmare-upload": "^0.1.1",
-    "snyk": "^1.41.1"
+    "snyk": "^1.317.0"
   },
   "snyk": true
 }
