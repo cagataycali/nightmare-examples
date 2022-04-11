@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/cagataycali/nightmare-examples#readme",
   "dependencies": {
-    "async": "^2.1.2",
+    "async": "^3.2.2",
     "express": "^4.14.0",
     "nightmare": "^2.8.1",
     "nightmare-download-manager": "^0.2.2",
